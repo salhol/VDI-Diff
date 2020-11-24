@@ -1,5 +1,5 @@
 # VDI-Diff
-<h1>Proof of Concept Tool: Methodology for Measuring Quality of Experience for Remote Control Applications.</h1>
+<h1>Comparing Pixel-based Quality of Experience in Remote Desktop Applications</h1>
 <h2>Description</h2>
 These scripts below were used in a thesis work with the goal of proving that user Quality of Experience in a virtual desktop infrastructure environment can be measured in some way without having to change the source code of remote control applications or needing specialized hardware to intercept the traffic on the server-side. 
 <br><br>
